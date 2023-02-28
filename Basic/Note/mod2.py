@@ -3,7 +3,13 @@ def sum(a,b):
         '더하기를 할 수 없습니다'
     else:return a+b
 
+# def star(a,b):
+#     for a in b:
+#         # result = '*' * a
+#         result = '*' * a
+#         a += 1
+#         return result
 
 
 if __name__ == "__main__":
-    print(sum(10,20))
+    print(sum(1,10))
